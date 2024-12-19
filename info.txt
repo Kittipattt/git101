@@ -1,1 +1,4 @@
-Name : Perch Kittipat
+Name: Perch Kittipat
+Tel: 0611743541
+Address: London
+Birthday: 20/12/45
